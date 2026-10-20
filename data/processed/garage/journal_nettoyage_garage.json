@@ -1,0 +1,28 @@
+{
+  "interventions": {
+    "lignes_initiales": 17150,
+    "doublons_stricts_supprimes": 150,
+    "montants_au_format_texte": 1190,
+    "montants_manquants": 1360,
+    "dates_echec_conversion": 0,
+    "lignes_sans_date_supprimees": 340,
+    "km_sentinelle_999999": 177,
+    "durees_negatives": 27,
+    "durees_atypiques_signalees": 41,
+    "lignes_finales": 16660
+  },
+  "clients": {
+    "lignes_initiales": 2400,
+    "ages_invalides": 131,
+    "ages_imputes": 251,
+    "lignes_finales": 2400
+  },
+  "prestations": {
+    "lignes_initiales": 95,
+    "couts_imputes": 2,
+    "lignes_finales": 95
+  },
+  "prestations_inconnues": [
+    "PRS9999"
+  ]
+}

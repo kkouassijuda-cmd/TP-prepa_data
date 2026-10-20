@@ -1,0 +1,12 @@
+id_atelier,nom_site,ville,region,capacite
+ATL01,Site Paris,Paris,Ile-de-France,324
+ATL02,Site Lyon,Lyon,Auvergne-Rhone-Alpes,184
+ATL03,Site Marseille,Marseille,PACA,267
+ATL04,Site Lille,Lille,Hauts-de-France,721
+ATL05,Site Bordeaux,Bordeaux,Nouvelle-Aquitaine,331
+ATL06,Site Nantes,Nantes,Pays de la Loire,346
+ATL07,Site Toulouse,Toulouse,Occitanie,452
+ATL08,Site Strasbourg,Strasbourg,Grand Est,539
+ATL09,Site Rennes,Rennes,Bretagne,560
+ATL10,Site Montpellier,Montpellier,Occitanie,462
+ATL99,Site technique,Orleans,Centre-Val de Loire,2500
